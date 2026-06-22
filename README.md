@@ -1,2 +1,3 @@
-# mralex
-web3 tech
+# My Open Source Project
+
+This is my first open source contribution!
